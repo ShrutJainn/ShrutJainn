@@ -11,7 +11,6 @@
 
 🏆 Recent achievements:
 - Won a national-level hackathon
-- Currently enrolled in a Web3 cohort
 
 🌱 Constantly learning and experimenting with cutting-edge technologies!
 </p>
